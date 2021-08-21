@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SectionContainer /> should to match snapshot 1`] = `
+.c0 {
+  width: 100%;
+  min-height: 100vh;
+  padding: 1rem;
+  padding-top: 8rem;
+  background-color: var(--white);
+  color: var(--primary-color);
+}
+
+.c1 {
+  max-width: 120rem;
+  margin: 0 auto;
+}
+
+<div
+  class="c0"
+  id=""
+>
+  <div
+    class="c1"
+  >
+    Hello
+  </div>
+</div>
+`;
